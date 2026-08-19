@@ -24,3 +24,8 @@ Durante o projeto, foram realizados diferentes testes de prompts no NotebookLM p
 - [Resumo SC-900](miniguia/resumo-sc900.md)
 - [Glossário](miniguia/glossario.md)
 - [Prompts reutilizáveis](miniguia/prompts-reutilizaveis.md)
+
+
+## Observação
+  Durante o desenvolvimento do projeto, utilizei ferramentas de Inteligência Artificial como apoio. 
+  O NotebookLM foi utilizado para análise das fontes e geração dos materiais de estudo, enquanto o ChatGPT auxiliou na organização da estrutura do repositório e na documentação do projeto.
