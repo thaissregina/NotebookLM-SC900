@@ -10,7 +10,7 @@ Este projeto faz parte do Bootcamp Bradesco de Cyber, Dados e IA tem como objeti
 5. https://learn.microsoft.com/pt-br/credentials/certifications/exams/sc-900/practice/assessment?assessmentId=11&assessment-type=practice&wt.mc_id=practiceassessmentslaunch_blog_blog_wwl_xcsa&source=docs
 
 
-## 🧠 Engenharia de Prompts
+## 🧠 ENGENHARIA DE PROMPTS
 
 Durante o projeto, foram realizados diferentes testes de prompts no NotebookLM para analisar e melhorar a qualidade das respostas.
 
@@ -19,13 +19,13 @@ Durante o projeto, foram realizados diferentes testes de prompts no NotebookLM p
 - [Cicatrizes e Troubleshooting](prompts/troubleshooting.md)
 
 
-## 📘 Miniguia de Estudos
+## 📘 MINIGUIA DE ESTUDOS
 
 - [Resumo SC-900](miniguia/resumo-sc900.md)
 - [Glossário](miniguia/glossario.md)
 - [Prompts reutilizáveis](miniguia/prompts-reutilizaveis.md)
 
 
-## Observação
+## OBSERVAÇÃO
   Durante o desenvolvimento do projeto, utilizei ferramentas de Inteligência Artificial como apoio. 
   O NotebookLM foi utilizado para análise das fontes e geração dos materiais de estudo, enquanto o ChatGPT auxiliou na organização da estrutura do repositório e na documentação do projeto.
