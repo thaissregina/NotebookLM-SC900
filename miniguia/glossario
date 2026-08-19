@@ -1,1 +1,53 @@
 
+# 📖 Glossário SC-900
+
+### A
+*   **Azure Bastion:** Serviço que fornece conectividade RDP e SSH segura para máquinas virtuais diretamente no Portal do Azure, sem a necessidade de endereços IP públicos.
+*   **Azure Key Vault:** Serviço de nuvem utilizado para armazenar e gerenciar com segurança segredos, chaves de criptografia e certificados.
+
+### C
+*   **CIA (Confidencialidade, Integridade e Disponibilidade):** Tríade que representa os três princípios fundamentais da segurança da informação.
+*   **Criptografia:** Mecanismo utilizado para proteger dados em repouso, em trânsito e em uso, tornando-os ilegíveis para usuários não autorizados.
+*   **CSPM (Cloud Security Posture Management - Gerenciamento da Postura de Segurança na Nuvem):** Conjunto de recursos do Microsoft Defender para Nuvem que ajuda a identificar e corrigir riscos de configuração em recursos de nuvem.
+
+### D
+*   **DDoS (Distributed Denial of Service - Negação de Serviço Distribuída):** Tipo de ataque que tenta exaurir os recursos de um aplicativo. A **Proteção contra DDoS do Azure** ajuda a mitigar esses ataques para manter a disponibilidade.
+*   **Defesa em Profundidade:** Estratégia de segurança que utiliza uma série de mecanismos (camadas) para proteger os dados. Se uma camada falhar, outras estarão prontas para impedir o acesso não autorizado.
+
+### F
+*   **Firewall do Azure:** Serviço de segurança de rede gerenciado que protege os recursos da Rede Virtual do Azure, filtrando o tráfego de rede.
+
+### G
+*   **GRC (Governança, Risco e Conformidade):** Conceitos relacionados à estratégia organizacional para gerenciar riscos, garantir a conformidade com leis e governar os dados.
+
+### H
+*   **Hash:** Mecanismo de segurança utilizado para garantir a **integridade** dos dados, criando uma assinatura exclusiva para um conjunto de informações que permite verificar se elas foram alteradas.
+
+### I
+*   **Identidade de Agente (Agent ID):** Tipo de identidade do Microsoft Entra projetada especificamente para proteger e gerenciar as interações de agentes de inteligência artificial.
+*   **Identidade Externa:** Funcionalidade do **Microsoft Entra External ID** que permite a colaboração com usuários externos (clientes ou parceiros), permitindo que acessem recursos usando suas próprias identidades corporativas ou sociais.
+*   **Identidade Híbrida:** Conceito que descreve a sincronização de identidades entre um diretório local (on-premises) e a nuvem, criando uma identidade única para o usuário.
+
+### M
+*   **Microsoft Entra ID:** Solução de gerenciamento de acesso e identidade baseada em nuvem da Microsoft.
+*   **Microsoft Purview:** Família de soluções para governança de dados, conformidade e gerenciamento de riscos.
+*   **Microsoft Sentinel:** Solução escalonável e nativa da nuvem que integra funcionalidades de **SIEM** e **SOAR**.
+
+### P
+*   **Portal de Confiança do Serviço (Service Trust Portal):** Central que fornece detalhes sobre como a Microsoft cumpre seus compromissos de confiança, incluindo relatórios de auditoria e avaliações de risco.
+
+### R
+*   **Responsabilidade Compartilhada:** Modelo que define a divisão de tarefas de segurança entre o cliente e o provedor de nuvem (Microsoft), dependendo do tipo de serviço (IaaS, PaaS ou SaaS).
+
+### S
+*   **SIEM (Security Information and Event Management - Gerenciamento de Eventos e Informações de Segurança):** Solução que coleta e analisa dados de log de diversas fontes para detectar ameaças em tempo real.
+*   **SOAR (Security Orchestration, Automation, and Response - Orquestração de Segurança, Automação e Resposta):** Funcionalidade que automatiza a resposta a incidentes de segurança detectados.
+
+### W
+*   **WAF (Web Application Firewall - Firewall de Aplicações Web):** Serviço que fornece proteção centralizada para aplicativos Web contra vulnerabilidades e ataques comuns de HTTP.
+
+### X
+*   **XDR (Extended Detection and Response - Detecção e Resposta Estendidas):** Categoria de segurança representada pelo **Microsoft Defender XDR**, que protege unificadamente dispositivos, identidades, e-mails e aplicativos.
+
+### Z
+*   **Zero Trust (Confiança Zero):** Estratégia de segurança baseada no princípio de "nunca confiar, sempre verificar", fundamentada nos pilares de verificar explicitamente, privilégio mínimo e assumir a violação.
