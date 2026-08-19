@@ -33,11 +33,19 @@ O resultado foi satisfatório, pois o NotebookLM conseguiu transformar o conteú
 
 Diferentemente dos prompts anteriores, que tinham como objetivo gerar resumos e explicações, este prompt permitiu utilizar a IA para testar o conhecimento adquirido sobre os conteúdos da SC-900.
 
-## ⏳ Próxima etapa
+## ✅ Resultado da correção
 
-Responder às 10 questões e analisar se o NotebookLM:
+Após responder às 10 questões, o NotebookLM realizou a correção conforme solicitado.
 
-- identifica corretamente os acertos e erros;
-- explica as respostas;
-- fundamenta as explicações nas fontes fornecidas;
-- apresenta as referências utilizadas.
+A ferramenta conseguiu:
+
+- identificar corretamente os acertos e erros;
+- explicar as respostas;
+- fundamentar as explicações com base nas fontes fornecidas;
+- apresentar as referências utilizadas.
+
+## 💡 Aprendizado
+
+O teste demonstrou que o NotebookLM pode ser utilizado não apenas para resumir conteúdos, mas também como uma ferramenta interativa de revisão e avaliação do conhecimento.
+
+Ao comparar este teste com os prompts anteriores, percebi que instruções mais específicas ajudam a direcionar a IA para o resultado esperado. Neste caso, foi possível definir a quantidade de questões, o formato das alternativas, a utilização de cenários e até a forma como a correção deveria ser realizada.
