@@ -47,7 +47,7 @@ Focado no gerenciamento de quem acessa o quê e como.
 - **Conta de Serviço (Service Principal):** É uma identidade criada para ser utilizada por um aplicativo, serviço ou ferramenta de automação para acessar recursos específicos. O desenvolvedor é responsável por gerenciar e proteger as credenciais (como segredos ou certificados) associadas a essa conta.
 - **Identidade Gerenciada (Managed Identity):** É um tipo especial de identidade para recursos do Azure (como Máquinas Virtuais ou Web Apps). A grande vantagem é que ela elimina a necessidade de gerenciar credenciais. O Azure cuida automaticamente da rotação e do armazenamento seguro das chaves no Microsoft Entra ID.
 
-💡**Não confunda:** Na Conta de Serviço, você gerencia o segredo/senha. Na Identidade Gerenciada, o Azure faz todo o gerenciamento de credenciais para você, aumentando a segurança.
+>💡**Não confunda:** Na Conta de Serviço, você gerencia o segredo/senha. Na Identidade Gerenciada, o Azure faz todo o gerenciamento de credenciais para você, aumentando a segurança.
 ---
 
 ## 🛡️ 3. Soluções de Segurança da Microsoft
