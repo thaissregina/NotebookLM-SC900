@@ -1,7 +1,6 @@
 # NotebookLM-SC900
 🎯 OBJETIVO
-Um resumo dos meus estudos para ajudar os estudantes que estão em busca da tão sonhada certificação Microsoft Conceitos básicos de segurança, conformidade e identidade(SC-900)
-
+Este projeto faz parte do Bootcamp Bradesco de Cyber, Dados e IA tem como objetivo utilizar o NotebookLM como ferramenta de apoio aos estudos para a certificação Microsoft Security, Compliance, and Identity Fundamentals (SC-900). A partir de fontes oficiais da Microsoft, serão criados resumos, glossários e materiais de revisão para auxiliar na compreensão dos principais conceitos abordados na certificação.
 📚 FONTES
 1. Microsoft Learn — Conceitos de segurança, conformidade e identidade: https://learn.microsoft.com/pt-br/training/modules/describe-security-concepts-methodologies/
 2. Microsoft Learn — Microsoft Entra Identidade, acesso e funções: https://learn.microsoft.com/pt-br/training/modules/explore-basic-services-identity-types/
