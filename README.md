@@ -1,6 +1,7 @@
 # NotebookLM-SC900
 
 🎯 OBJETIVO
+
 Este projeto faz parte do Bootcamp Bradesco de Cyber, Dados e IA tem como objetivo utilizar o NotebookLM como ferramenta de apoio aos estudos para a certificação Microsoft Security, Compliance, and Identity Fundamentals (SC-900). A partir de fontes oficiais da Microsoft, serão criados resumos, glossários e materiais de revisão para auxiliar na compreensão dos principais conceitos abordados na certificação.
 
 📚 FONTES
