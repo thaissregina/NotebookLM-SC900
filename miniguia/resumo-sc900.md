@@ -64,7 +64,7 @@ Ferramentas práticas para defesa contra ameaças e proteção de infraestrutura
     *   **Azure Key Vault:** Armazenamento seguro de chaves de criptografia, segredos e certificados.
 *   **Microsoft Security Copilot:** IA que processa prompts para auxiliar analistas de segurança na investigação e resposta rápida a incidentes.
 
-> **Não Confunda:** 
+> 💡**Não Confunda:** 
 > *   **SIEM (Gerenciamento de Eventos):** Foca em coletar e analisar logs para detectar ameaças.
 > *   **SOAR (Resposta e Automação):** Foca em automatizar a reação ao ataque detectado.
 
