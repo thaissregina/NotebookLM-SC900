@@ -23,7 +23,7 @@ Base teórica e metodológica para todas as soluções Microsoft.
 *   **Modelo de Confiança Zero (Zero Trust):** Assume que toda tentativa de acesso é uma ameaça. Baseia-se em três princípios: **verificar explicitamente**, **usar acesso de menor privilégio** e **assumir a violação**.
 *   **Criptografia e Hash:** A criptografia protege dados em repouso, trânsito e uso; o hash garante que o dado não foi modificado (integridade).
 
-> **Não Confunda:** 
+> 💡**Não Confunda:** 
 > *   **Criptografia:** Garante que ninguém leia o dado sem a chave (**Confidencialidade**).
 > *   **Hash:** Garante que o arquivo é original e não foi alterado (**Integridade**).
 
@@ -40,13 +40,14 @@ Focado no gerenciamento de quem acessa o quê e como.
     *   **Identidade de Agente (Agent ID):** Identidade específica para proteger e gerenciar agentes de inteligência artificial.
 *   **Recursos de Autenticação e Proteção:** O Entra gerencia processos de autenticação (provar quem você é) e controles de acesso (definir o que você pode acessar).
 
-> **Não Confunda:** 
+>💡 **Não Confunda:** 
 > *   **Identidade Externa:** Para colaboração com humanos de fora da empresa.
 > *   **Identidade de Agente:** Para proteção de identidades usadas por máquinas/IA.
 
-Conta de Serviço (Service Principal): É uma identidade criada para ser utilizada por um aplicativo, serviço ou ferramenta de automação para acessar recursos específicos. O desenvolvedor é responsável por gerenciar e proteger as credenciais (como segredos ou certificados) associadas a essa conta.
-Identidade Gerenciada (Managed Identity): É um tipo especial de identidade para recursos do Azure (como Máquinas Virtuais ou Web Apps). A grande vantagem é que ela elimina a necessidade de gerenciar credenciais. O Azure cuida automaticamente da rotação e do armazenamento seguro das chaves no Microsoft Entra ID.
-Não confunda: Na Conta de Serviço, você gerencia o segredo/senha. Na Identidade Gerenciada, o Azure faz todo o gerenciamento de credenciais para você, aumentando a segurança.
+- **Conta de Serviço (Service Principal):** É uma identidade criada para ser utilizada por um aplicativo, serviço ou ferramenta de automação para acessar recursos específicos. O desenvolvedor é responsável por gerenciar e proteger as credenciais (como segredos ou certificados) associadas a essa conta.
+- **Identidade Gerenciada (Managed Identity):** É um tipo especial de identidade para recursos do Azure (como Máquinas Virtuais ou Web Apps). A grande vantagem é que ela elimina a necessidade de gerenciar credenciais. O Azure cuida automaticamente da rotação e do armazenamento seguro das chaves no Microsoft Entra ID.
+
+💡**Não confunda:** Na Conta de Serviço, você gerencia o segredo/senha. Na Identidade Gerenciada, o Azure faz todo o gerenciamento de credenciais para você, aumentando a segurança.
 ---
 
 ## 🛡️ 3. Soluções de Segurança da Microsoft
@@ -79,7 +80,7 @@ Governança de dados e transparência sobre como a Microsoft opera.
 *   **Princípios de Privacidade da Microsoft:** Compromissos fundamentais de confiança que garantem que o cliente tem o controle de seus dados e que a Microsoft é transparente sobre o uso deles.
 *   **Conceitos de GRC:** Governança, Risco e Conformidade, incluindo a gestão de residência e soberania de dados.
 
-> **Não Confunda:** 
+> 💡**Não Confunda:** 
 > *   **Purview:** A ferramenta técnica para governar e proteger seus próprios dados.
 > *   **Service Trust Portal:** O site para você conferir a conformidade da própria Microsoft.
 
